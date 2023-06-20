@@ -1,0 +1,7 @@
+/* CSS for Index.Html */
+section {
+    min-height: 420px;
+}
+.display-4 {
+    font-weight: 500;
+}
